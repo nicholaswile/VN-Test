@@ -1,19 +1,13 @@
-- I looked at Sylvia 
-*   ... and I could contain myself no longer.
-    'What is the purpose of our journey, Monsieur?'
-    'A wager,' he replied.
-    * *     'A wager!'[] I returned.
-            He nodded. 
-            * * *   'But surely that is foolishness!'
-            * * *  'A most serious matter then!'
-            - - -   He nodded again.
-            * * *   'But can we win?'
-                    'That is what we will endeavour to find out,' he answered.
-            * * *   'A modest wager, I trust?'
-                    'Twenty thousand pounds,' he replied, quite flatly.
-            * * *   I asked nothing further of him then[.], and after a final, polite cough, he offered nothing more to me. <>
-    * *     'Ah[.'],' I replied, uncertain what I thought.
-    - -     After that, <>
-*   ... but I said nothing[] and <>
-- we passed the day in silence.
+- I looked at the SylviaStory.ink file...
+*   ...and I was able to edit it with Inky.
+    With the help of the writer's manual, I shouldn't struggle much.
+    After giving it a brief overview...
+    * *     ...I created another dialogue choice.
+            This is pretty exciting!
+            * * *   I hope I do well on this project!
+            * * *   I hope I can push this to GitHub without issue.
+            - - -   I suppose we'll have to wait and see.
+    * *     ...I went to bed.[] I have work tomorrow.
+*   ...but I accidentally opened the SylviaStory.json file instead.[]
+    Well, that sucks.
 - -> END
