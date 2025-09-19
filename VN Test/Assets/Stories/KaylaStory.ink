@@ -17,3 +17,12 @@
 *   ... but I said nothing[] and <>
 - we passed the day in silence.
 - -> END
+I looked back and realized
+... I also could no longer contain what I needed to say.
+'Why do people say that you cannot have your cake and eat it, too?'
+He looked puzzled.
+'What does cake have to do with literally anything,' he asked.
+'Nothing,' I said.
+'But, I bet twenty thousand pounds could get us the largest cake this town has ever seen.'
+After that, silence hushed over us again.
+I think he was perplexed.
