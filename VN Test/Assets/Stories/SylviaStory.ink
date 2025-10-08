@@ -7,7 +7,7 @@
             * * *   I hope I do well on this project!
             * * *   I hope I can push this to GitHub without issue.
             - - -   I suppose we'll have to wait and see.
-    * *     ...I went to bed.[] I have work tomorrow.
+    * *     ...I went to go work on something else.[] I mostly just needed to test out GitHub branches.
 *   ...but I accidentally opened the SylviaStory.json file instead.[]
     Well, that sucks.
 - -> END
